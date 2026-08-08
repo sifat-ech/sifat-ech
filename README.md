@@ -1,5 +1,5 @@
 ## Hi there 👋👋, I'm Md. Safayet Ullah! <br><br>
-I am an undergraduate student at Rajshahi University of Engineering and Technology (RUET), studying Computer Science and Engineering (CSE). I have a passion for coding, problem-solving, and web development.
+Computer Science and Engineering graduate with a strong foundation in programming, software development, and problem-solving. Interested in web development and modern technologies, with a focus on using AI tools to build practical and creative solutions. Eager to learn, improve technical skills, and take on new challenges in a professional environment.
 
 
 ## 🌐 Socials:
